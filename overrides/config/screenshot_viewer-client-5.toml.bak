@@ -18,7 +18,7 @@
 [ingui]
 	#Screenshot Manager Customization
 	#The path to the folder containing the screenshots images that will be displayed in the screen.
-	screenshotsFolder = "C:\\Users\\SSSX\\curseforge\\minecraft\\Instances\\Create New World 2  Create Create Create (1)\\screenshots"
+	screenshotsFolder = "C:\\Users\\SSSX\\curseforge\\minecraft\\Instances\\Create New World 2  Create Create Create\\screenshots"
 	#The ordering of the screenshots when the screen is opened.
 	#Allowed Values: ASCENDING, DESCENDING
 	defaultListOrder = "ASCENDING"
@@ -55,7 +55,7 @@
 [screenshot_thumbnails]
 	#Screenshot Thumbnails
 	#The path to the folder containing the screenshots thumbnails that will be displayed in the screen.
-	screenshotsFolder = "C:\\Users\\SSSX\\curseforge\\minecraft\\Instances\\Create New World 2  Create Create Create (1)\\screenshots\\thumbnails"
+	screenshotsFolder = "C:\\Users\\SSSX\\curseforge\\minecraft\\Instances\\Create New World 2  Create Create Create\\screenshots\\thumbnails"
 	#If set to none, will not generate any thumbnails. Controls the downscale ratio between a screenshot image and its thumbnail.
 	#Allowed Values: NONE, HALF, QUARTER, EIGHTH
 	compression_ratio = "NONE"
