@@ -1,0 +1,71 @@
+{
+	id: "1912ECA0F215AE2D"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 8
+			id: "700F0EF001CEAF4F"
+			item: {
+				count: 1
+				id: "minecraft:deepslate_coal_ore"
+			}
+		}
+		{
+			count: 8
+			id: "790A38021EDA3ACA"
+			item: {
+				count: 1
+				id: "minecraft:deepslate_iron_ore"
+			}
+		}
+		{
+			count: 8
+			id: "029F7A28DBCCFD93"
+			item: {
+				count: 1
+				id: "minecraft:deepslate_copper_ore"
+			}
+		}
+		{
+			count: 8
+			id: "42046EBDA02ADE56"
+			item: {
+				count: 1
+				id: "minecraft:deepslate_gold_ore"
+			}
+		}
+		{
+			count: 8
+			id: "7023FF68DF5A214E"
+			item: {
+				count: 1
+				id: "minecraft:deepslate_redstone_ore"
+			}
+		}
+		{
+			count: 8
+			id: "369CD2EDDD5A4642"
+			item: {
+				count: 1
+				id: "minecraft:deepslate_emerald_ore"
+			}
+		}
+		{
+			count: 8
+			id: "48C4ED551AB4B876"
+			item: {
+				count: 1
+				id: "minecraft:deepslate_lapis_ore"
+			}
+		}
+		{
+			count: 4
+			id: "504E45FB4A189B72"
+			item: {
+				count: 1
+				id: "minecraft:deepslate_diamond_ore"
+			}
+		}
+	]
+}

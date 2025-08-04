@@ -1,0 +1,16 @@
+{
+  "use_weighted_random": false,
+  "play_sound_effects": true,
+  "locked_slots": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "version": 2
+}

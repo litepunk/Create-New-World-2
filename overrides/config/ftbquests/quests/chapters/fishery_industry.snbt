@@ -1,0 +1,299 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fishery_industry"
+	group: "65A7CE9DE9F5E0C6"
+	id: "4FE32E2862D14EAE"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7BE0E18943EBFAB2"]
+			id: "6701F72B436AC556"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6FBDAAE554439C74"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4B887E59592E9829"
+				item: { count: 1, id: "createfisheryindustry:frame_trap" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7BE0E18943EBFAB2"]
+			id: "777C7FA92971A70B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A94A9443DF53BC6"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7D4D433CD3C4D325"
+				item: { count: 1, id: "createfisheryindustry:mesh_trap" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7BE0E18943EBFAB2"]
+			id: "045F1E2A253CC9F9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "037EC39E93063EB9"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "103E9CEA68FE4E31"
+				item: { count: 1, id: "createfisheryindustry:trap_nozzle" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["045F1E2A253CC9F9"]
+			id: "46E56741A544FB0C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48B93DEEF27E500B"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "57492C7922F08C81"
+				item: { count: 1, id: "createfisheryindustry:smart_nozzle" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["777C7FA92971A70B"]
+			id: "28330BC89C85C74B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D422A04F5AD6315"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "78D0F068D11976C3"
+				item: { count: 1, id: "createfisheryindustry:smart_mesh" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			id: "18F6FC23A3385A07"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B6308445D312B62"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "535F34F9BFB6644B"
+				item: { count: 1, id: "createfisheryindustry:mechanical_peeler" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"276805DB0E49F7AC"
+				"288B49CC23E8D588"
+			]
+			id: "355BAF8695025813"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E06D1C89F77EA66"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7001C6F55A836D27"
+				item: { count: 1, id: "createfisheryindustry:pneumatic_harpoon_gun" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "276805DB0E49F7AC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DB4488520E55284"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5A006CE609D74B24"
+				item: { count: 1, id: "createfisheryindustry:harpoon" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["559C3AB92DCD9D37"]
+			id: "543F9FB07A61F035"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E1DD55D7D4BDC4F"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0F7213DC90F59937"
+				item: { components: { "createfisheryindustry:harpoon_pouch_contents": [ ] }, count: 1, id: "createfisheryindustry:harpoon_pouch" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7BE0E18943EBFAB2"]
+			id: "288B49CC23E8D588"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "69334EC6A485AAC6"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "065FC215BE887147"
+				item: { count: 1, id: "createfisheryindustry:pneumatic_mechanism" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7BE0E18943EBFAB2"]
+			id: "18DF6837373BF09C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E632B0D46A9638A"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "63ED8E1159B55D7B"
+				item: { count: 1, id: "createfisheryindustry:copper_diving_leggings" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["18DF6837373BF09C"]
+			id: "01DB43C5A64DB8D5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A5EB7C53A1ABE51"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "57B8D48023C69602"
+				item: { count: 1, id: "createfisheryindustry:netherite_diving_leggings" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["18F6FC23A3385A07"]
+			id: "3BD1E7C775C06CCA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "318662154A5F3586"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "70C61453AA226547"
+				item: { count: 1, id: "createfisheryindustry:fish_skin" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["18F6FC23A3385A07"]
+			id: "1987F2BE92C8D4C1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "204B387329386C18"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "35D390169126546E"
+				item: { count: 1, id: "createfisheryindustry:cod_steak" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["18F6FC23A3385A07"]
+			id: "6342AD090BB35EA5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D08B358D351A816"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "26F58D316CB2B927"
+				item: { count: 1, id: "createfisheryindustry:salmon_steak" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			id: "559C3AB92DCD9D37"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "17B880558784E5D4"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "43265A9F4A734857"
+				item: { count: 1, id: "createfisheryindustry:waxed_leather" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			id: "7BE0E18943EBFAB2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03A7D632B817D49E"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2C438EE23F4BAEF6"
+				item: { count: 1, id: "createfisheryindustry:zinc_sheet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+	]
+}
