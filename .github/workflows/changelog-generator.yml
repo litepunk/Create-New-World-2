@@ -1,0 +1,46 @@
+name: Changelog Generator
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'manifest.json'
+      - 'modlist.html'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'manifest.json'
+      - 'modlist.html'
+
+jobs:
+  changelog_generator:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 2
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Make executable
+      run: chmod +x ./.github/scripts/changelog-generator
+    
+    - name: Generate changelog
+      run: ./.github/scripts/changelog-generator
+    
+    - name: Commit changelog
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add CHANGELOG.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "upd: changelog"
+          git push origin HEAD:${{ github.ref_name }}
+        fi
