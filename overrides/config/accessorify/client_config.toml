@@ -3,7 +3,7 @@ version = 1
 
 [widgetSettings]
 showUIHints = true
-shulkerQuickSelect = true
+quickSelect = true
 
 [spyglassZoomSettings]
 scrollableZoom = true

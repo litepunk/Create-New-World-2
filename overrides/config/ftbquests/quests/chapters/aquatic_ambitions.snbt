@@ -1,0 +1,128 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aquatic_ambitions"
+	group: "65A7CE9DE9F5E0C6"
+	id: "759AE2E0FC816EDD"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3D88C5E03C2DA686"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51CC2EA9AFBF9257"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3CD6CC43E422BA9C"
+				item: { count: 1, id: "create_aquatic_ambitions:prismarine_alloy" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3D88C5E03C2DA686"]
+			id: "49962AA42A561DFE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "536CCA95D14972A0"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "50998C1C16E18E7C"
+				item: { count: 1, id: "create_aquatic_ambitions:prismarine_alloy_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3D88C5E03C2DA686"]
+			id: "24D96520DF366909"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "089BCA3467555419"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "65434F73688CD65F"
+				item: { count: 1, id: "create_aquatic_ambitions:prismarine_alloy_rod" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["24D96520DF366909"]
+			id: "50B0FE5A380CF78C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4234B88121839ED7"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "69336738C16DB591"
+				item: { count: 1, id: "create_aquatic_ambitions:mechanical_conduit" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "3C8CF9FE36C13433"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F04675899394206"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3FC6D530931904D9"
+				item: { count: 1, id: "create_aquatic_ambitions:suspicious_rock" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3C8CF9FE36C13433"]
+			id: "6123501C047E7974"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23CC8BF538D03A3C"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "37DA07A580B5D634"
+				item: { count: 1, id: "create_aquatic_ambitions:calcium_rich_powder" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3C8CF9FE36C13433"]
+			id: "1C0A3CF11E356C00"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "689DFA3172E2FC09"
+				table_id: 1806766576529419821L
+				type: "random"
+			}]
+			tasks: [{
+				id: "591D5209006476F4"
+				item: { count: 1, id: "create_aquatic_ambitions:spiky_shell" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+	]
+}
