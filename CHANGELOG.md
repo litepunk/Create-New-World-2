@@ -1,23 +1,22 @@
 _[Changelog generator by SMOXcraft](https://www.curseforge.com/members/smoxcraft)_
 
-## Create New World 2 - v1.3.5
+## Create New World 2 - v1.4.0
+
+## Removed Mods
+
+- [Create: Protection Pixel (by JEDIGD)](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
 
 ## Updated Mods
 
-- [Skin Layers 3D (Fabric/Forge) (by tr7zw)](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d): 6780123 => 6879695
-- [Sophisticated Backpacks (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks): 6833048 => 6881751
-- [CreativeCore (by CreativeMD)](https://www.curseforge.com/minecraft/mc-mods/creativecore): 6690762 => 6878648
-- [Enderscape (by lunarbunten)](https://www.curseforge.com/minecraft/mc-mods/enderscape): 6738966 => 6875961
-- [Sophisticated Storage (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage): 6824403 => 6868953
-- [FTB Library (Forge) (by FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge): 6807431 => 6874538
-- [OctoLib (by SSKirillSS)](https://www.curseforge.com/minecraft/mc-mods/octo-lib): 6011408 => 6883439
-- [Not Enough Recipe Book [NERB] (by SSKirillSS)](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook): 6439340 => 6880047
-- [FTB Quests (Forge) (by FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge): 6829025 => 6874989
-- [Puzzles Lib (by Fuzs)](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib): 6850909 => 6874068
-- [FTB XMod Compat (by FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat): 6743720 => 6878703
+- [Create: Fishery Industry (by Adonis_Baffin)](https://www.curseforge.com/minecraft/mc-mods/create-fishery-industry): 6821438 => 6897021
+- [Geophilic – Vanilla Biome Overhauls (by bebebea_loste)](https://www.curseforge.com/minecraft/mc-mods/geophilic): 6662167 => 6897930
+- [Sophisticated Backpacks (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks): 6881751 => 6896610
+- [Golem Overhaul (by joosh_7889)](https://www.curseforge.com/minecraft/mc-mods/golem-overhaul): 6497799 => 6894947
+- [Sophisticated Core (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core): 6859222 => 6896602
+- [Sophisticated Storage (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage): 6868953 => 6903113
 
 ## Updated Resource Packs
 
-- [Glowing Emissive Ores - Fusion (by DeftestHawk)](https://www.curseforge.com/minecraft/texture-packs/glowing-emissive-ores-fusion): 6850993 => 6880012
-- [Glowing Emissive Ores (by DeftestHawk)](https://www.curseforge.com/minecraft/texture-packs/glowing-emissive-ores): 6850985 => 6880011
+- [Glowing Emissive Ores - Fusion (by DeftestHawk)](https://www.curseforge.com/minecraft/texture-packs/glowing-emissive-ores-fusion): 6880012 => 6897084
+- [Glowing Emissive Ores (by DeftestHawk)](https://www.curseforge.com/minecraft/texture-packs/glowing-emissive-ores): 6880011 => 6897082
 
