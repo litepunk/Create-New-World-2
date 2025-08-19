@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","file/Medieval_Style_Lootr.zip","file/Torchmaster Remaster.zip","file/CreateSophisticatedBackpacks.zip","file/CreateSophStorage.zip","file/FreshAnimations_v1.9.2.zip","file/FA+Objects-v1.1.1.zip","file/Icon Xaero\u0027s 1.21.zip","file/Icon Fresh 1.2.zip","file/Simple Grass Flowers v1.9.5.zip","cullleaves:smartleaves","file/Better-Leaves-9.3.zip","file/GEO - v1.75.0.zip","file/GEO - v1.75.0 - Fusion.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","file/Medieval_Style_Lootr.zip","file/Torchmaster Remaster.zip","file/CreateSophisticatedBackpacks.zip","file/CreateSophStorage.zip","file/FreshAnimations_v1.9.2.zip","file/FA+Objects-v1.1.1.zip","file/Icon Xaero\u0027s 1.21.zip","file/Icon Fresh 1.2.zip","file/Simple Grass Flowers v1.9.5.zip","cullleaves:smartleaves","file/Better-Leaves-9.3.zip","file/GEO - v1.77.0.zip","file/GEO - v1.77.0 - Fusion.zip"]
 incompatibleResourcePacks:["file/Medieval_Style_Lootr.zip","file/Torchmaster Remaster.zip","file/CreateSophisticatedBackpacks.zip","file/CreateSophStorage.zip"]
 lastServer:
 lang:en_us

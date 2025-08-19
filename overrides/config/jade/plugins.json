@@ -83,6 +83,9 @@
   "jadeaddons.lootr": {
     "info": true
   },
+  "ftbquests": {
+    "barrier": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
