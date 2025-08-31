@@ -1,37 +1,29 @@
 _[Changelog generator by SMOXcraft](https://www.curseforge.com/members/smoxcraft)_
 
-## Create New World 2 - v1.4.1
+## Create New World 2 - v1.4.2
 
 ## Updated Mods
 
-- [[ETF] Entity Texture Features - [Fabric & Forge] (by Traben)](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric): 5982151 => 6925385
-- [Farmer's Delight (by vectorwing)](https://www.curseforge.com/minecraft/mc-mods/farmers-delight): 6597295 => 6917256
-- [Prickle (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/prickle): 6546240 => 6910558
-- [Placebo (by Shadows_of_Fire)](https://www.curseforge.com/minecraft/mc-mods/placebo): 6751290 => 6926281
-- [Sophisticated Storage (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage): 6903113 => 6912198
-- [[EMF] Entity Model Features [Fabric & Forge] (by Traben)](https://www.curseforge.com/minecraft/mc-mods/entity-model-features): 6001147 => 6922725
-- [Visuality: Reforged (by DragonsPlus)](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged): 5830760 => 6917625
-- [AllTheLeaks (Memory Leak Fix) (by Uncandango)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks): 6823583 => 6916165
-- [Supplementaries (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/supplementaries): 6854370 => 6913494
-- [Moonlight Lib (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/selene): 6818413 => 6914080
-- [Fusion (Connected Textures) (by SuperMartijn642)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures): 6826913 => 6923714
-- [Sawmill (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/sawmill): 6825945 => 6914488
-- [GeckoLib (by Gecko)](https://www.curseforge.com/minecraft/mc-mods/geckolib): 6659026 => 6920810
-- [Bookshelf (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/bookshelf): 6717571 => 6909578
-- [Supplementaries Squared (by plantspookable)](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared): 6796090 => 6908110
-- [Create: Fishery Industry (by Adonis_Baffin)](https://www.curseforge.com/minecraft/mc-mods/create-fishery-industry): 6897021 => 6919570
-- [FancyMenu (by Keksuccino)](https://www.curseforge.com/minecraft/mc-mods/fancymenu): 6785152 => 6919001
-- [FTB Teams (Forge) (by FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge): 6119437 => 6915350
-- [Amendments (by plantspookable)](https://www.curseforge.com/minecraft/mc-mods/amendments): 6332372 => 6919475
-- [Create: Extra Gauges (by LiukRast)](https://www.curseforge.com/minecraft/mc-mods/create-extra-gauges): 6566007 => 6924929
-- [Sophisticated Backpacks (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks): 6896610 => 6907846
+- [AllTheLeaks (Memory Leak Fix) (by Uncandango)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks): 6916165 => 6930692
+- [Sophisticated Storage (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage): 6912198 => 6944465
+- [Sophisticated Core (by P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core): 6896602 => 6944450
+- [Fast Async World Save[Forge/Fabric] (by someaddon)](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric): 6303146 => 6935204
+- [Moonlight Lib (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/selene): 6914080 => 6939532
+- [ReForgedPlay [replay mod on (neo)forge] (by Ferri_Arnus)](https://www.curseforge.com/minecraft/mc-mods/reforgedplay-mod): 6137859 => 6942967
+- [Create: Fishery Industry (by Adonis_Baffin)](https://www.curseforge.com/minecraft/mc-mods/create-fishery-industry): 6919570 => 6940710
+- [OctoLib (by SSKirillSS)](https://www.curseforge.com/minecraft/mc-mods/octo-lib): 6883439 => 6932487
+- [Accessories (by Blodhgarm)](https://www.curseforge.com/minecraft/mc-mods/accessories): 6837975 => 6942854
+- [Create: Dragons Plus (by DragonsPlus)](https://www.curseforge.com/minecraft/mc-mods/create-dragons-plus): 6652868 => 6946959
+- [FTB Teams (Forge) (by FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge): 6915350 => 6930910
+- [Accessorify (by pajic)](https://www.curseforge.com/minecraft/mc-mods/accessorify): 6852322 => 6932314
+- [My Nether's Delight (by soytutta)](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight): 6460371 => 6938550
+- [Supplementaries (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/supplementaries): 6913494 => 6944305
+- [Packet Fixer (by TonimatasDEV)](https://www.curseforge.com/minecraft/mc-mods/packet-fixer): 6800125 => 6940441
+- [CreativeCore (by CreativeMD)](https://www.curseforge.com/minecraft/mc-mods/creativecore): 6878648 => 6937374
+- [Not Enough Animations (by tr7zw)](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations): 6738639 => 6931606
+- [Sawmill (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/sawmill): 6914488 => 6947609
 
 ## Updated Resource Packs
 
-- [Glowing Emissive Ores (by DeftestHawk)](https://www.curseforge.com/minecraft/texture-packs/glowing-emissive-ores): 6897082 => 6923402
-- [Glowing Emissive Ores - Fusion (by DeftestHawk)](https://www.curseforge.com/minecraft/texture-packs/glowing-emissive-ores-fusion): 6897084 => 6923403
-
-## Updated Shaders
-
-- [MakeUp - Ultra Fast | Shaders (by XavierFST)](https://www.curseforge.com/minecraft/shaders/makeup-ultra-fast-shader): 6856855 => 6909568
+- [Fresh Animations (by FreshLX)](https://www.curseforge.com/minecraft/texture-packs/fresh-animations): 5494142 => 6943060
 
